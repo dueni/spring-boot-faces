@@ -9,3 +9,4 @@ I started the exercises based on openjdk 1.8, advancing to openjdk 11 with goal 
 ## springboot_2.7_myfaces_primefaces (openjdk 1.8)
 ## springboot_2.7_myfaces_primefaces_jdk11 (openjdk 11)
 - had to delegate IntelliJ build to mvn - or maybe use Intellij version later then 2021.1?
+- this also works built/run with openjdk 17 and 21
